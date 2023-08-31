@@ -1,4 +1,4 @@
-# aync-await-behavior-in-java-using-CompletableFuture
+# aync await behavior in java using CompletableFuture
 
 ## Bellow Example shows how we can achive Async await behaviour in java with the help of `CompletableFuture`
 
